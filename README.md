@@ -82,6 +82,7 @@ For development, you will need the following software and packages installed in 
         $ mvn spring-boot:run
 
 4. Visit http://localhost:8080 in your web browser to access the StudentHub application.
+![Screenshot of Application](./Student-HubSS.png)
 
 5. Visit http://localhost:8081 in your browser to access the mongo-express database.
 ![Screenshot of Docker](./Mongo-ExpressSS.jpg)
